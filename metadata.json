@@ -1,0 +1,7 @@
+{
+  "name": "Ink & Atlas",
+  "description": "A vintage-styled literary map exploring locations from famous books, powered by Google Gemini for real-time literary discovery, map grounding, and vintage image editing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
